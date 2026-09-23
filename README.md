@@ -1,6 +1,6 @@
 # PHPGurukul Small CRM - Insecure Deserialization (PHP Object Injection)
 
-**CVE: pending (submitted to VulDB)**
+**CVE: CVE-2026-90575**
 
 **Affected:** PHPGurukul Small CRM v3.0 - v4.0
 
